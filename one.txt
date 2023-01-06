@@ -1,2 +1,6 @@
 one sopon badullah
+<<<<<<< HEAD
 snig
+=======
+heloo oganda
+>>>>>>> main
